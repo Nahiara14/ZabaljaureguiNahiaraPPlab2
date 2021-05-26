@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1622014896 source:c:\users\nahiara\desktop\parcialdenotebooks\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1622038005 c:\users\nahiara\desktop\parcialdenotebooks\cliente.h
+
+1622037393 source:c:\users\nahiara\desktop\parcialdenotebooks\data.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"notebook.h"
+
+1622037232 c:\users\nahiara\desktop\parcialdenotebooks\fecha.h
+
+1622040621 c:\users\nahiara\desktop\parcialdenotebooks\notebook.h
+	"tipo.h"
+	"marca.h"
+	"cliente.h"
+	"servicio.h"
+
+1622015452 c:\users\nahiara\desktop\parcialdenotebooks\tipo.h
+
+1622015303 c:\users\nahiara\desktop\parcialdenotebooks\marca.h
+
+1622015418 c:\users\nahiara\desktop\parcialdenotebooks\servicio.h
+
+1622015147 source:c:\users\nahiara\desktop\parcialdenotebooks\datatrabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"trabajo.h"
+
+1622015495 c:\users\nahiara\desktop\parcialdenotebooks\trabajo.h
+	"fecha.h"
+	"notebook.h"
+	"servicio.h"
+	"tipo.h"
+	"marca.h"
+	"cliente.h"
+
+1622037184 source:c:\users\nahiara\desktop\parcialdenotebooks\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1622039397 source:c:\users\nahiara\desktop\parcialdenotebooks\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"informes.h"
+
+1622015234 c:\users\nahiara\desktop\parcialdenotebooks\informes.h
+	"notebook.h"
+	"trabajo.h"
+
+1622015282 source:c:\users\nahiara\desktop\parcialdenotebooks\marca.c
+	<stdio.h>
+	<stdlib.h>
+	"marca.h"
+
+1622040232 source:c:\users\nahiara\desktop\parcialdenotebooks\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"notebook.h"
+	"tipo.h"
+	"marca.h"
+
+1622015396 source:c:\users\nahiara\desktop\parcialdenotebooks\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	"servicio.h"
+
+1622015434 source:c:\users\nahiara\desktop\parcialdenotebooks\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1622037677 source:c:\users\nahiara\desktop\parcialdenotebooks\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+
+1622037335 source:c:\users\nahiara\desktop\parcialdenotebooks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"marca.h"
+	"time.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"tipo.h"
+	"cliente.h"
+	"informes.h"
+	"data.h"
+	"datatrabajo.h"
+
+1622015048 c:\users\nahiara\desktop\parcialdenotebooks\data.h
+
+1622015164 c:\users\nahiara\desktop\parcialdenotebooks\datatrabajo.h
+
